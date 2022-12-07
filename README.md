@@ -1,8 +1,7 @@
-# DTCC
+# DTCC2020 | [大会简介](https://dtcc.it168.com/2020/) | [会议议程](https://dtcc.it168.com/2020/yicheng.html)
 
-https://dtcc.it168.com/2020/
-http://mrconfs.com/event/5fa9fddb922d2.html#richeng
-https://www.huodongjia.com/event-87900046.html
+![](doc/images/banner.jpeg)
 
+![](doc/images/yicheng.png)
 
-https://z.itpub.net/article/detail/5260C494873379BAA63BAB7C5CBD7A95
+- [DTCC2020数据库大会PPT合集](https://z.itpub.net/article/detail/5260C494873379BAA63BAB7C5CBD7A95)
