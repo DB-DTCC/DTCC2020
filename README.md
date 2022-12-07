@@ -1,4 +1,4 @@
-# DTCC2020 | [大会简介](https://dtcc.it168.com/2020/) | [会议议程](https://dtcc.it168.com/2020/yicheng.html)
+## DTCC2020 | [大会简介](https://dtcc.it168.com/2020/) | [会议议程](https://dtcc.it168.com/2020/yicheng.html)
 
 ![](doc/images/banner.jpeg)
 
