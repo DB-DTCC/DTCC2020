@@ -2,6 +2,4 @@
 
 ![](doc/images/banner.jpeg)
 
-![](doc/images/yicheng.png)
-
 - [DTCC2020数据库大会PPT合集](https://z.itpub.net/article/detail/5260C494873379BAA63BAB7C5CBD7A95)
